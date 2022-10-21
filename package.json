@@ -1,0 +1,16 @@
+{
+"name": "oscarauto",
+"theme": "oscarauto",
+"version": "9.1.8",
+"description": "oscarauto ทางเข้าเว็บบาคาร่าเว็บตรง ไม่ผ่านเอเย่นต์ รับโบนัสเครดิตฟรี",
+"keywords": [
+"oscarauto",
+"oscarauto เครดิตฟรี",
+"oscarauto ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/oscarauto",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
